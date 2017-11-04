@@ -5,12 +5,15 @@
   "authors": [
     "Andres Morey <andres@muicss.com>"
   ],
-
   "main": [
 	"css/default.css",
 	"normalize.css",
 	"css/styles.css",
 	"js/stopExecutionOnTimeout.js"
-  ]
+  ], 
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.1",
+  },
 
 }
